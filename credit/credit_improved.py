@@ -1,3 +1,7 @@
+# After writing the messy translation, I decided to start from scratch and learn a bit
+# about  how python works, including creating lists for easy access to digits, and 
+# streamling the code all round (this is 30 lines shorter than my other code)
+
 import cs50
 
 
