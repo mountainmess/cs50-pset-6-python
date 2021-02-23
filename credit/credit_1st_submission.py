@@ -1,7 +1,9 @@
 # Note: This was my first attempt at python code, after many weeks of C. the code works, but 
 # once finished I realised that i had much to learn about python, and rewrote it from scratch#
 # This code is a direct translation of my c code, and although it works it is clearly not well
-# written. See my other improved credit for better code, once that I'm happy with and learnt a lot by doing.
+# written. Bear in mind that my original c version of this code was just 1 week into my programming 
+# life. See my other improved credit for better code, once that I'm happy with and learnt a lot by doing.
+
 import cs50
 
 # prompt for CC number
